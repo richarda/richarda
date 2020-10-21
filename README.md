@@ -2,8 +2,8 @@
 - 😃 I use (he/him) pronouns.
 - 🌎 I live in the United States and speak English.
 - 💻 I really like building software, and I do most of it at work. I want to build more for fun or for good, but
-- 👶 🧒 ... We have a big, young family, and mostly I spend time with them when I'm not at work. I'm grateful for that (great work and family)
-- 🚫 I'm really interested in serverless development and super cheap, yet expandable solutions
+- 👶 🧒 ... we have a big, young family, and mostly I spend time with them when I'm not at work. I'm grateful for that (great work and family).
+- 🚫 I'm really interested in serverless development and super cheap, yet expandable solutions.
 - 🚥 I'm also passionate about testing and automation with increasing simplicity as a goal. (Because it's easlier to remember and help other people understand).
 
 <!--
